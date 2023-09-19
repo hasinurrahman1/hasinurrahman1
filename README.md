@@ -23,11 +23,9 @@ I am a passionate and dedicated Web Developer with a strong background in creati
 
 ![Profile views](https://gpvc.arturio.dev/hasinurrahman1) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasinurrahman1&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasinurrahman1&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinurrahman1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hasinurrahman1)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinurrahman1)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hasinurrahman1)
 
