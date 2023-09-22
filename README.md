@@ -30,4 +30,4 @@ I am a passionate and dedicated Web Developer with a strong background in creati
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hasinurrahman1)
 
-![GitHub metrics](https://metrics.lecoq.io/hasinurrahman1)
+![GitHub metrics](https://metrics.lecoq.io/hasinurrahman1) 
